@@ -1,4 +1,4 @@
-## Colton Huggins, CVA III
+## Colton Huggins
 ### Aspiring IT Professional
 
 #### About Me: 
