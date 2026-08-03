@@ -13,8 +13,6 @@
 <img height="30px" alt="image" src="https://github.com/user-attachments/assets/03a7e31c-d473-4adb-a73b-8c9568d13777" />
 <img height="30px" alt="image" src="https://github.com/user-attachments/assets/7fc5241d-2b87-4bbd-b367-0ee721fba27e" />
 
- #### Fun Fact:
-  CVA stands for Certified Veterinary Assistant
 
 
 <!--
